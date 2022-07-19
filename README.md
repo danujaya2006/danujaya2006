@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 ***
 <div align="center">
-<a href="https://github.com/ravindu01manoj"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=𝙷𝙸+𝙸+𝙰𝙼+𝚁𝙰𝚅𝙸𝙽𝙳𝚄+𝙼𝙰𝙽𝙾𝙹&height=150&fontSize=65&desc=ＷＥＬＣＯＭＥ+ＴＯ+ＭＹ+ＰＲＯＦＩＬＥ&descAlignY=75&descAlign=70"></a></div>
+<a href="https://github.com/danujaya2006"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=783ee5&text=𝙷𝙸+𝙸+𝙰𝙼+DANUJAYA+DAHAM&height=150&fontSize=65&desc=ＷＥＬＣＯＭＥ+ＴＯ+ＭＹ+ＰＲＯＦＩＬＥ&descAlignY=75&descAlign=70"></a></div>
 
-<div align="center"><a href="https://t.me/RavinduManoj"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/4d7f7f2a6130c8cd00e777f07a2adb71c687a218/media/20211124_141757.png" width="250"></a><br> <img src="https://profile-counter.glitch.me/ravindu01manoj/count.svg" /><br>Profile Viewers</div>
 
 ***
