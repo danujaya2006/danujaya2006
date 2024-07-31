@@ -9,5 +9,5 @@
 ![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) 
 
 ***
-<div align="center"><img src="https://i.ibb.co/stRZB29/20220721-151035.png" width="450" >
+
 
